@@ -1,0 +1,16 @@
+# To down,ald the dataset:
+
+requests
+
+# FOr data analysis
+
+pandas
+scikit-learn
+
+# For plotting
+
+matplotlib
+seaborn
+
+# For ML models
+py-xgboost
